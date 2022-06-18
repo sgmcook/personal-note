@@ -10,3 +10,8 @@ Installation Instructions
 + 
 + 
 +
+
+Docker
+Docker compose for services
+pip env because you want a Venv for your python
+Which means you don't have to 
